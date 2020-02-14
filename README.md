@@ -10,5 +10,5 @@
 
 # 软件架构
 
-<img src="https://https://github.com/lervisnh/simulation_reliability/blob/master/others/simple_architecture.png" style="zoom: 25%;" />
+<img src="https://github.com/lervisnh/simulation_reliability/blob/master/others/simple_architecture.png" style="zoom: 25%;" />
 
