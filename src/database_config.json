@@ -1,0 +1,7 @@
+{
+"DB_USER": "root", 
+"DB_PASS": "mysql_root_password", 
+"DB_HOST" : "127.0.0.1", 
+"DB_PORT" : "3306", 
+"DATABASE" : "radar"
+}
